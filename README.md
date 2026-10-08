@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
