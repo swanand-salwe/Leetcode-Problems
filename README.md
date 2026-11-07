@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -58,4 +59,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Array
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
