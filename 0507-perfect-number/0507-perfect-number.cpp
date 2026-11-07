@@ -3,7 +3,7 @@ public:
     bool checkPerfectNumber(int num) {
         if (num <= 1) return false;
         int sum = 0;
-        for(int i = 1; i <= sqrt(num); i++){
+        for(int i = 1; i <= sqrt(num); i++){   // generally avoid the sqrt() and use num / i means "for(int i = 1; i <= num / i; i++)"
             if(num % i == 0){
                 sum += i;
                 if((i != num / i) && (i != 1)){
