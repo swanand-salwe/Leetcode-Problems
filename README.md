@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
+| [2235-add-two-integers](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/2235-add-two-integers) |
 ## Greedy
 |  |
 | ------- |
