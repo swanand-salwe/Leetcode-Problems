@@ -1,3 +1,4 @@
 class Solution:
     def sum(self, num1: int, num2: int) -> int:
-        return int(num1 + num2)
+        total = num1 + num2 
+        return total
