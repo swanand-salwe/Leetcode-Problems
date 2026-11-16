@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 ## Enumeration
 |  |
