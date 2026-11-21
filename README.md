@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0507-perfect-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting Sort
 |  |
 | ------- |
