@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
