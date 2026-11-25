@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2404-most-frequent-even-element](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [2404-most-frequent-even-element](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
 ## Array
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1920-build-array-from-permutation](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
+| [2404-most-frequent-even-element](https://github.com/swanand-salwe/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
 ## Enumeration
 |  |
 | ------- |
