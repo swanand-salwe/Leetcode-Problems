@@ -1,4 +1,11 @@
 //  one pass- hash table
+
+auto fast_io = []() {
+    std::ios_base::sync_with_stdio(false);
+    std::cin.tie(NULL);
+    return 0;
+}();
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target){
